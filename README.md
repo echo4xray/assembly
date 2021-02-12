@@ -13,3 +13,4 @@
 
 - Opcodes x86
 - x86 Registers Reference
+- Memory behavior
