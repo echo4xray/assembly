@@ -11,6 +11,7 @@
 
 # References
 
+- [Online Assembly Compile (nasm)](https://www.tutorialspoint.com/compile_assembly_online.php)
 - Opcodes x86
 - x86 Registers Reference
 - Memory behavior
