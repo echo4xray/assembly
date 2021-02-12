@@ -8,3 +8,8 @@
 | 4 | Sum using carry                          | [libC]() | [windows api]() |
 | 5 | Basic subtraction                        | [libC]() | [windows api]() |
 | 6 | Subtraction resulting in negative number | [libC]() | [windows api]() |
+
+# References
+
+- Opcodes x86
+- x86 Registers Reference
